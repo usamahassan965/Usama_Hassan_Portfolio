@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>scene on Usama Hassan</title>
+    <link>https://usamahassan965.github.io/Usama_Hassan_Portfolio/tags/scene/</link>
+    <description>Recent content in scene on Usama Hassan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 09 Apr 2022 10:58:08 -0400</lastBuildDate><atom:link href="https://usamahassan965.github.io/Usama_Hassan_Portfolio/tags/scene/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 1: Semantic Segmentation with SAM</title>
+      <link>https://usamahassan965.github.io/Usama_Hassan_Portfolio/post/project1/</link>
+      <pubDate>Sat, 09 Apr 2022 10:58:08 -0400</pubDate>
+      
+      <guid>https://usamahassan965.github.io/Usama_Hassan_Portfolio/post/project1/</guid>
+      <description>Developed an advanced system utilizing the Semantic Attention Module (SAM) architecture for the precise semantic segmentation of images and accurate bounding box detection, enhancing the understanding and analysis of visual data.
+Key accomplishments of the project include: Implemented a cutting-edge semantic segmentation framework using SAM architecture to classify and segment objects within images with remarkable accuracy and detail.2. Curated a diverse dataset comprising a wide range of annotated images, incorporating various object categories and scenarios, to train and evaluate the model effectively.</description>
+    </item>
+    
+  </channel>
+</rss>

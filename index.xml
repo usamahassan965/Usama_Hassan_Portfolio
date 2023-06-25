@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ML Engineer on Usama Hassan</title>
+    <link>https://usamahassan965.github.io/Usama_Hassan_Portfolio/</link>
+    <description>Recent content in ML Engineer on Usama Hassan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 09 Apr 2022 10:58:08 -0400</lastBuildDate><atom:link href="https://usamahassan965.github.io/Usama_Hassan_Portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 1: Semantic Segmentation with SAM</title>
+      <link>https://usamahassan965.github.io/Usama_Hassan_Portfolio/post/project1/</link>
+      <pubDate>Sat, 09 Apr 2022 10:58:08 -0400</pubDate>
+      
+      <guid>https://usamahassan965.github.io/Usama_Hassan_Portfolio/post/project1/</guid>
+      <description>Developed an advanced system utilizing the Semantic Attention Module (SAM) architecture for the precise semantic segmentation of images and accurate bounding box detection, enhancing the understanding and analysis of visual data.
+Key accomplishments of the project include: Implemented a cutting-edge semantic segmentation framework using SAM architecture to classify and segment objects within images with remarkable accuracy and detail.2. Curated a diverse dataset comprising a wide range of annotated images, incorporating various object categories and scenarios, to train and evaluate the model effectively.</description>
+    </item>
+    
+    <item>
+      <title>Project 3: Image Classifier</title>
+      <link>https://usamahassan965.github.io/Usama_Hassan_Portfolio/post/project3/</link>
+      <pubDate>Tue, 11 Apr 2017 11:13:32 -0400</pubDate>
+      
+      <guid>https://usamahassan965.github.io/Usama_Hassan_Portfolio/post/project3/</guid>
+      <description>Poor Gringoire! the din of all the great double petards of the Saint-Jean, the discharge of twenty arquebuses on supports, the detonation of that famous serpentine of the Tower of Billy, which, during the siege of Paris, on Sunday, the twenty-sixth of September, 1465, killed seven Burgundians at one blow, the explosion of all the powder stored at the gate of the Temple, would have rent his ears less rudely at that solemn and dramatic moment, than these few words, which fell from the lips of the usher, “His eminence, Monseigneur the Cardinal de Bourbon.</description>
+    </item>
+    
+    <item>
+      <title>Project 2: Ball Image Classifier</title>
+      <link>https://usamahassan965.github.io/Usama_Hassan_Portfolio/post/project2/</link>
+      <pubDate>Mon, 10 Apr 2017 11:00:59 -0400</pubDate>
+      
+      <guid>https://usamahassan965.github.io/Usama_Hassan_Portfolio/post/project2/</guid>
+      <description>I built a ball classifier to identify balls from different sports. This could be useful for someone who is new to sports from a certain country. They could take a picture of a ball and an app could serve them some information about the history and rules of the game. This is the underlying model for building something with those capabilities.
+I was able to get the model to predict the sport of the ball with 94% accuracy after minimal tuning.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://usamahassan965.github.io/Usama_Hassan_Portfolio/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://usamahassan965.github.io/Usama_Hassan_Portfolio/about/</guid>
+      <description>Throughout my professional tenure, I have consistently demonstrated my ability to navigate complex challenges, resulting in the creation of robust, AI-powered solutions. My projects have spanned various domains, encompassing the realms of object recognition, image segmentation, and video analysis, wherein I have employed cutting-edge models and harnessed the power of deep learning frameworks such as TensorFlow and PyTorch.
+As an AI Engineer, I am well-versed in the design and implementation of scalable and highly performant code.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://usamahassan965.github.io/Usama_Hassan_Portfolio/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://usamahassan965.github.io/Usama_Hassan_Portfolio/contact/</guid>
+      <description>Feel free to reach out to me using the contact information below. I&amp;rsquo;ll get back to you as soon as possible.
+Platform URL Email: usamahassan965@gmail.com LinkedIn: https://www.linkedin.com/in/usama-hassan-232830157 Github: https://github.com/usamahassan965?tab=repositories Whatsapp: +92-304-7633120 </description>
+    </item>
+    
+  </channel>
+</rss>
